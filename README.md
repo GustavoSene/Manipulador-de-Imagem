@@ -2,4 +2,4 @@
 Por meio do cmder você executa o Node.JS: "node script.js *Endereço da imagem no mesmo diretório*.jpg *novo tamanho pra imagem* *número de graus para a rotação*" e clicar enter. 
 Exemplo abaixo: 
 
-https://github.com/GustavoSene/Manipulador-de-Imagem/blob/master/walt.jpg
+(https://github.com/GustavoSene/Manipulador-de-Imagem/blob/master/walt.jpg)
